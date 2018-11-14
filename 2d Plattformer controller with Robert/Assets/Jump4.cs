@@ -9,6 +9,10 @@ public class Jump4 : MonoBehaviour {
     float jumpMaxTime;
     float jumpTime;
     float jumpPower;
+
+    public float testjumpMaxTime = 0.055f;
+    public float testJumpTime = 0;
+    public float testJumpPower = 2.4f;
     public bool isJumping;
     // Use this for initialization
     void Start()
@@ -25,9 +29,9 @@ public class Jump4 : MonoBehaviour {
         if (Input.GetButtonDown("Jump") && isJumping == false)
         {
             isJumping = true;
-            jumpMaxTime = Time.time + 0.055f;
-            jumpTime = 0;
-            jumpPower = 2.4f;
+            jumpMaxTime = Time.time + testjumpMaxTime;
+            jumpTime = testJumpTime;
+            jumpPower = testJumpPower;
         }
         if (Input.GetButton("Jump") && Time.time < jumpMaxTime)
         {
