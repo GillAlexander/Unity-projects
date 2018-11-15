@@ -12,6 +12,8 @@
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581966-8cca5e80-e923-11e8-94e0-f5c81d299e16.JPG" alt="9 - Arrays" width="100%">]()
 
+[<img src="https://user-images.githubusercontent.com/5332921/48581981-9653c680-e923-11e8-90e6-f8cb48998732.JPG" alt="9 - Arrays" width="100%">]()
+
 [<img src="https://user-images.githubusercontent.com/5332921/48581983-96ec5d00-e923-11e8-9eed-f4115b61c1eb.JPG" alt="9 - Arrays" width="100%">]()
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581984-96ec5d00-e923-11e8-875b-8fe464e9c819.JPG" alt="9 - Arrays" width="100%">]()
@@ -22,6 +24,6 @@
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581988-9784f380-e923-11e8-9da4-3fe0d23d3a55.JPG" alt="9 - Arrays" width="100%">]()
 
-[<img src="https://user-images.githubusercontent.com/5332921/48581981-9653c680-e923-11e8-90e6-f8cb48998732.JPG" alt="9 - Arrays" width="100%">]()
+
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581982-96ec5d00-e923-11e8-9c63-3b872ee85bf7.JPG" alt="9 - Arrays" width="100%">]()
