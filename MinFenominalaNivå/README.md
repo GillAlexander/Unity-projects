@@ -1,6 +1,6 @@
-[<img src="https://user-images.githubusercontent.com/5332921/48581901-699faf00-e923-11e8-8ec6-4d5b85f3510a.jpg" alt="9 - Arrays" width="100%">]()
+[<img src="https://user-images.githubusercontent.com/5332921/48582189-1417d200-e924-11e8-9faa-df055f592be0.jpg" alt="9 - Arrays" width="100%">]()
 
-[<img src="https://user-images.githubusercontent.com/5332921/48581904-6a384580-e923-11e8-98d7-c69910d84dc1.jpg" alt="9 - Arrays" width="100%">]()
+[<img src="https://user-images.githubusercontent.com/5332921/48582231-298cfc00-e924-11e8-9d2d-61daadd38caf.jpg" alt="9 - Arrays" width="100%">]()
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581851-437a0f00-e923-11e8-8066-b2f8e8d89000.JPG" alt="9 - Arrays" width="100%">]()
 
