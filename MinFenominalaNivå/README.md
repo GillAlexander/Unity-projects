@@ -16,9 +16,9 @@
 
 [<img src="https://user-images.githubusercontent.com/5332921/48582294-66f18980-e924-11e8-8cd7-1788b0b59881.JPG" alt="9 - Arrays" width="100%">]()
 
-[<img src="https://user-images.githubusercontent.com/5332921/48581983-96ec5d00-e923-11e8-9eed-f4115b61c1eb.JPG" alt="9 - Arrays" width="100%">]()
-
 [<img src="https://user-images.githubusercontent.com/5332921/48581984-96ec5d00-e923-11e8-875b-8fe464e9c819.JPG" alt="9 - Arrays" width="100%">]()
+
+[<img src="https://user-images.githubusercontent.com/5332921/48581983-96ec5d00-e923-11e8-9eed-f4115b61c1eb.JPG" alt="9 - Arrays" width="100%">]()
 
 [<img src="https://user-images.githubusercontent.com/5332921/48581985-96ec5d00-e923-11e8-9a35-0e6b1f226aae.JPG" alt="9 - Arrays" width="100%">]()
 
