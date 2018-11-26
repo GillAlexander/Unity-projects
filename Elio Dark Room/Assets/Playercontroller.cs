@@ -21,11 +21,16 @@ public class Playercontroller : MonoBehaviour {
         float moveVertical = Input.GetAxis("Vertical") * speed;
         float moveHorizontal = Input.GetAxis("Horizontal") * speed;
 
+        float xboxVertical = Input.GetAxisRaw("Vertical") * speed;
+        float xboxHorizontal = Input.GetAxisRaw("Horizontal") * speed;
+
         moveVertical *= Time.deltaTime;
-        moveHorizontal *= Time.deltaTime; 
+        moveHorizontal *= Time.deltaTime;
+        xboxVertical *= Time.deltaTime;
+        xboxHorizontal *= Time.deltaTime;
 
         transform.Translate(moveHorizontal, 0, moveVertical);
-
+        transform.Translate(xboxHorizontal, 0, xboxVertical);
 
 
 	}
