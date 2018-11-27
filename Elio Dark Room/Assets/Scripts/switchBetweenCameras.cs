@@ -10,11 +10,24 @@ public class switchBetweenCameras : MonoBehaviour {
     
 	// Use this for initialization
 	void Start () {
-        camera = GetComponent<Camera>();
+        playerCamera.gameObject.SetActive(true);
+        elioCamera.gameObject.SetActive(false);
+
+        elioCamera.GetComponent<Camera>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+        if (Input.anyKey)
+        {
+            playerCamera.gameObject.SetActive(false);
+            elioCamera.gameObject.SetActive(true);
+
+        }
+        else
+        {
+            playerCamera.gameObject.SetActive(true);
+            elioCamera.gameObject.SetActive(false);
+        }
 	}
 }
