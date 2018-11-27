@@ -57,6 +57,11 @@ public class XInputTestCS : MonoBehaviour
 
         // Make the current object turn
         transform.localRotation *= Quaternion.Euler(0.0f, state.ThumbSticks.Left.X * 25.0f * Time.deltaTime, 0.0f);
+
+
+
+        transform.localRotation *= Quaternion.Euler(0.0f, state.ThumbSticks.Right.X * 25.0f * Time.deltaTime, 0.0f);
+        transform.localRotation *= Quaternion.Euler(0.0f, state.ThumbSticks.Right.Y * 25.0f * Time.deltaTime, 0.0f);
     }
 
     void OnGUI()
